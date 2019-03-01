@@ -14,6 +14,13 @@ Specifically, we feature
 * [Adding a custom properties panel](./src/properties-panel), built with [React](https://reactjs.org/)
 
 
+Within the properties panel, we feature
+
+* Displaying and editing BPMN element properties
+* Displaying and editing of [custom extensions](./src/modeler/moddle/custom.json)
+* Implementing diagram actions such as changing an elements type
+
+
 ## Run the Demo
 
 ```sh
